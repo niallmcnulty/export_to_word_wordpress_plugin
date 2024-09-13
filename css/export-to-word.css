@@ -1,0 +1,19 @@
+.export-to-word-button {
+    display: inline-block !important;
+    padding: 10px 20px !important;
+    background-color: #2b579a !important; /* Microsoft Word blue */
+    color: #ffffff !important;
+    text-decoration: none !important;
+    border-radius: 5px !important;
+    margin-top: 20px !important;
+    border: none !important;
+    cursor: pointer !important;
+}
+
+.export-to-word-button:hover {
+    background-color: #1e3f6f !important; /* Darker shade for hover effect */
+}
+
+.export-to-word-form {
+    margin-top: 20px !important;
+}
